@@ -1,40 +1,69 @@
-# Debrup Banik
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,20,30&height=200&section=header&text=Debrup%20Banik&fontSize=70&fontAlignY=40&desc=Backend%20Developer%20|%20Python%20|%20FastAPI%20|%20Building%20Scalable%20Systems&descSize=18&descAlignY=60&animation=blink&fontColor=ffffff" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00D9FF&background=0D111700&center=true&vCenter=true&random=false&width=500&lines=Backend+Developer+%7C+Python+%26+FastAPI+%7C+Building+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat-square" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&style=flat-square" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&style=flat-square" alt="Django">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&style=flat-square" alt="Redis">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&style=flat-square" alt="Docker">
 </p>
 
 <p align="center">
   <a href="https://github.com/Debrupbanik"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:devruphello@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://linkedin.com/in/debrupbanik"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/Location-India-blue?style=flat-square" alt="Location">
 </p>
 
 ---
 
-## 👋 About Me
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bounce-reverse-bounce.svg" width="100%" />
 
-I'm a passionate **Backend Developer** specializing in building robust, scalable systems with **Python**, **FastAPI**, and **Django**. I enjoy solving complex distributed systems problems and leveraging AI/ML to create intelligent applications.
+## 🚀 About Me
 
-- 🔭 Currently working on **API Mesh Gateway** - an AI-powered API gateway
-- 🌱 Learning more about **distributed systems** and **MLOps**
-- 💬 Ask me about **FastAPI**, **async Python**, **API design**, and **system architecture**
-- ⚡ Fun fact: I build projects that actually solve real-world problems
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Debrupbanik&label=Profile+Views&color=00D9FF&style=flat-square" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/Debrupbanik?style=flat-square&label=Followers&color=00D9FF" alt="Followers">
+  <img src="https://img.shields.io/github/stars/Debrupbanik?style=flat-square&label=Total+Stars&color=FFD700" alt="Stars">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&random=false&width=600&height=50&lines=Backend+Developer+%7C+Building+Scalable+APIs+%7C+AI-Powered+Systems" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Debrupbanik&theme=tokyonight" alt="Profile Card"/>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bounce-reverse-bounce.svg" width="100%" />
 
-### Languages & Frameworks
-<p float="left">
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" alt="Python" />
+  <img src="https://techstack-generator.vercel.app/fastapi-icon.svg" width="60" height="60" alt="FastAPI" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="60" height="60" alt="Django" />
+  <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" width="60" height="60" alt="PostgreSQL" />
+  <img src="https://techstack-generator.vercel.app/redis-icon.svg" width="60" height="60" alt="Redis" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" height="60" alt="Docker" />
+</p>
+
+### 💻 Languages & Frameworks
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-### Databases & Storage
-<p float="left">
+### 🗄️ Databases & Storage
+<p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -42,71 +71,113 @@ I'm a passionate **Backend Developer** specializing in building robust, scalable
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-### DevOps & Cloud
-<p float="left">
+### ☁️ DevOps & Cloud
+<p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
 </p>
 
-### AI/ML
-<p float="left">
+### 🤖 AI/ML
+<p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
 </p>
 
 ---
 
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bounce-reverse-bounce.svg" width="100%" />
+
 ## 📂 Featured Projects
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debrupbanik&repo=api-mesh-gateway&theme=tokyonight&bg_color=0D1117&show_icons=true&icon_color=00D9FF&title_color=00D9FF&text_color=FFFFFF&hide_border=true&border_radius=15" alt="API Mesh Gateway" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debrupbanik&repo=VaultDB&theme=tokyonight&bg_color=0D1117&show_icons=true&icon_color=00D9FF&title_color=00D9FF&text_color=FFFFFF&hide_border=true&border_radius=15" alt="VaultDB" />
+</p>
+
+---
+
 ### 🤖 [API Mesh Gateway](https://github.com/Debrupbanik/api-mesh-gateway)
-> AI-Powered API Gateway for intelligent request routing and load balancing
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debrupbanik&repo=api-mesh-gateway&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="100%" />
+</p>
+
+> 🤖 **AI-Powered API Gateway** - Intelligent request routing, circuit breaking, and smart caching
 
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi" alt="FastAPI">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis" alt="Redis">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker" alt="Docker">
 </p>
 
-**Key Features:**
-- Circuit breaker pattern for fault tolerance
-- AI-powered load balancing with traffic prediction
-- Smart caching with ML-predicted TTL
-- Sliding window rate limiting
-- Prometheus metrics integration
+**✨ Key Features:**
+- 🔄 Circuit breaker pattern for fault tolerance
+- 🧠 AI-powered load balancing with traffic prediction
+- ⚡ Smart caching with ML-predicted TTL
+- 🚦 Sliding window rate limiting
+- 📊 Prometheus metrics integration
 
 ```python
-# Example: Circuit breaker usage
-breaker = CircuitBreaker("api-service")
+# Circuit Breaker Implementation
+breaker = CircuitBreaker("api-service", failure_threshold=5)
 result = await breaker.call(fetch_data)
 ```
+
+<p align="center">
+  <a href="https://github.com/Debrupbanik/api-mesh-gateway/stargazers">
+    <img src="https://img.shields.io/github/stars/Debrupbanik/api-mesh-gateway?style=social" alt="Stars">
+  </a>
+  <a href="https://github.com/Debrupbanik/api-mesh-gateway/network/members">
+    <img src="https://img.shields.io/github/forks/Debrupbanik/api-mesh-gateway?style=social" alt="Forks">
+  </a>
+</p>
 
 ---
 
 ### 🔐 [VaultDB](https://github.com/Debrupbanik/VaultDB)
-> CLI + Web Dashboard for database backup and restore
+
+> 🔐 **Database Backup Utility** - CLI + Web Dashboard for MySQL, PostgreSQL, MongoDB, SQLite
 
 <p align="left">
   <img src="https://img.shields.io/badge/CLI-4B8BBE?style=flat&logo=linux" alt="CLI">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi" alt="FastAPI">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql" alt="PostgreSQL">
 </p>
 
-**Supported Databases:** MySQL, PostgreSQL, MongoDB, SQLite
+**✨ Key Features:**
+- 💾 Full, incremental, and differential backups
+- 📦 Multiple compression formats (gzip, bzip2, lzma)
+- ☁️ Cloud storage (AWS S3, GCS, Azure)
+- ⏰ Automated scheduling
+- 📢 Slack notifications
 
-**Key Features:**
-- Full, incremental, and differential backups
-- Multiple compression formats (gzip, bzip2, lzma)
-- Cloud storage integration (AWS S3, GCS, Azure)
-- Automated scheduling
-- Slack notifications
+```bash
+# Quick Start
+dbbackup backup --dbms postgresql --database myapp --compression gzip
+```
+
+<p align="center">
+  <a href="https://github.com/Debrupbanik/VaultDB/stargazers">
+    <img src="https://img.shields.io/github/stars/Debrupbanik/VaultDB?style=social" alt="Stars">
+  </a>
+  <a href="https://github.com/Debrupbanik/VaultDB/network/members">
+    <img src="https://img.shields.io/github/forks/Debrupbanik/VaultDB?style=social" alt="Forks">
+  </a>
+</p>
 
 ---
 
 ### ⚡ [Energy Production Forecasting](https://github.com/Debrupbanik/lstm_comparisons)
-> Deep learning comparison for electricity production prediction
+
+> 📈 Deep learning comparison for electricity production prediction
 
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow" alt="TensorFlow">
@@ -114,16 +185,17 @@ result = await breaker.call(fetch_data)
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas" alt="Pandas">
 </p>
 
-**Key Features:**
-- 5 different LSTM architectures compared
-- Comprehensive metrics (MAE, MSE, RMSE, MAPE, R²)
-- Interactive visualizations
-- Model complexity analysis
+**✨ Key Features:**
+- 🧠 5 different LSTM architectures compared
+- 📊 Comprehensive metrics (MAE, MSE, RMSE, MAPE, R²)
+- 📈 Interactive visualizations
+- ⚙️ Model complexity analysis
 
 ---
 
 ### 📈 [AI Trading Bot](https://github.com/Debrupbanik/ai-trading-bot)
-> Cryptocurrency trading bot with predictive analytics
+
+> 🤖 Cryptocurrency trading bot with predictive analytics
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" alt="Python">
@@ -132,37 +204,115 @@ result = await breaker.call(fetch_data)
 
 ---
 
+### 🔮 [Solana Prediction Market](https://github.com/Debrupbanik/solprediction)
+
+> 🔮 Prediction market platform for the Solana ecosystem
+
+---
+
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bounce-reverse-bounce.svg" width="100%" />
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Debrupbanik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debrupbanik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Debrupbanik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&ring_color=00D9FF" alt="GitHub Stats" height="200" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Debrupbanik&theme=tokyonight&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debrupbanik&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" height="200" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Debrupbanik&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="Streak Stats" />
 </p>
 
 ---
 
-## 🏆 Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Debrupbanik&theme=tokyonight&row=1&column=6&no-frame=true" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Debrupbanik&theme=tokyonight&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </p>
 
 ---
 
-## 📫 How to Reach Me
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bounce-reverse-bounce.svg" width="100%" />
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Debrupbanik&theme=tokyonight&row=1&column=8&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
+</p>
+
+---
+
+## 🎯 Contribution Metrics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Debrupbanik&theme=tokyonight" alt="Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Debrupbanik&theme=tokyonight" alt="Languages" />
+</p>
+
+---
+
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bounce-reverse-bounce.svg" width="100%" />
+
+## 💡 Skills Overview
+
+<p align="center">
+  <img src="https://github-readme-skill-icons.vercel.app/icons/Python-Dark.svg" width="60" height="60" />
+  <img src="https://github-readme-skill-icons.vercel.app/icons/FastAPI-Dark.svg" width="60" height="60" />
+  <img src="https://github-readme-skill-icons.vercel.app/icons/Django-Dark.svg" width="60" height="60" />
+  <img src="https://github-readme-skill-icons.vercel.app/icons/PostgreSQL-Dark.svg" width="60" height="60" />
+  <img src="https://github-readme-skill-icons.vercel.app/icons/Redis-Dark.svg" width="60" height="60" />
+  <img src="https://github-readme-skill-icons.vercel.app/icons/Docker-Dark.svg" width="60" height="60" />
+</p>
+
+---
+
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bounce-reverse-bounce.svg" width="100%" />
+
+## 🐍 Snake Game Contribution
+
+<p align="center">
+  <img src="https://github.com/Debrupbanik/Debrupbanik/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</p>
+
+---
+
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bounce-reverse-bounce.svg" width="100%" />
+
+## 📫 Connect With Me
 
 <p align="center">
   <a href="mailto:devruphello@gmail.com">
-    <img src="https://img.shields.io/badge/Email-devruphello@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-devruphello%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/Debrupbanik">
+    <img src="https://img.shields.io/badge/GitHub-Debrupbanik-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/debrupbanik">
+    <img src="https://img.shields.io/badge/LinkedIn-debrupbanik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/Debrupbanik">Debrupbanik</a></i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Random Quote" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=footer&section=footer&desc=Thanks%20for%20visiting!&fontSize=16&fontAlignY=50&height=100&color=gradient&customColorList=0,2,2,20,30" />
+</p>
+
+---
+
+<p align="center">
+  <i>⭐️ Created by <a href="https://github.com/Debrupbanik">Debrup Banik</a> with ❤️</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Made with Python">
+  <img src="https://img.shields.io/badge/Powered%20by-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Powered by FastAPI">
 </p>
