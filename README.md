@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,20,30&height=200&section=header&text=Debrup%20Banik&fontSize=70&fontAlignY=40&desc=Backend%20Developer%20|%20Python%20|%20FastAPI%20|%20Building%20Scalable%20Systems&descSize=18&descAlignY=60&animation=blink&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,20,30&height=200&section=header&text=Debrup%20Banik&fontSize=70&fontAlignY=40&desc=End%20Developer%20|%20Python%20|%20FastAPI%20|%20Building%20Scalable%20Systems&descSize=18&descAlignY=60&animation=blink&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&random=false&width=600&height=50&lines=Backend+Developer+%7C+Building+Scalable+APIs+%7C+AI-Powered+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&random=false&width=600&height=50&lines=End+Developer+%7C+Building+Scalable+APIs+%7C+AI-Powered+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
