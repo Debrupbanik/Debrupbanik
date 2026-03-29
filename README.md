@@ -96,18 +96,14 @@
 ## 📂 Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debrupbanik&repo=api-mesh-gateway&theme=tokyonight&bg_color=0D1117&show_icons=true&icon_color=00D9FF&title_color=00D9FF&text_color=FFFFFF&hide_border=true&border_radius=15" alt="API Mesh Gateway" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debrupbanik&repo=VaultDB&theme=tokyonight&bg_color=0D1117&show_icons=true&icon_color=00D9FF&title_color=00D9FF&text_color=FFFFFF&hide_border=true&border_radius=15" alt="VaultDB" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debrupbanik&repo=DataForge&theme=tokyonight&bg_color=0D1117&show_icons=true&icon_color=00D9FF&title_color=00D9FF&text_color=FFFFFF&hide_border=true&border_radius=15" alt="DataForge" />
+  <a href="https://github.com/Debrupbanik/api-mesh-gateway"><img src="https://img.shields.io/badge/API%20Mesh%20Gateway-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="API Mesh Gateway" /></a>
+  <a href="https://github.com/Debrupbanik/VaultDB"><img src="https://img.shields.io/badge/VaultDB-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="VaultDB" /></a>
+  <a href="https://github.com/Debrupbanik/DataForge"><img src="https://img.shields.io/badge/DataForge-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="DataForge" /></a>
 </p>
 
 ---
 
 ### 🤖 [API Mesh Gateway](https://github.com/Debrupbanik/api-mesh-gateway)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debrupbanik&repo=api-mesh-gateway&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="100%" />
-</p>
 
 > 🤖 **AI-Powered API Gateway** - Intelligent request routing, circuit breaking, and smart caching
 
@@ -252,11 +248,11 @@ dataforge serve api
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Debrupbanik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&ring_color=00D9FF" alt="GitHub Stats" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Debrupbanik&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debrupbanik&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Debrupbanik&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -317,7 +313,7 @@ dataforge serve api
     <img src="https://img.shields.io/badge/GitHub-Debrupbanik-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://github.com/Debrupbanik/DataForge">
-    <img src="https://img.shields.io/badge/LinkedIn-debrupbanik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/Projects-DataForge-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Projects">
   </a>
 </p>
 
