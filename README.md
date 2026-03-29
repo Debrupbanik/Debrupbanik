@@ -13,14 +13,14 @@
 
 <p align="center">
   <a href="https://github.com/Debrupbanik"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:devruphello@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/debrupbanik"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:debrupbanik82@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/Debrupbanik/DataForge"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Location-India-blue?style=flat-square" alt="Location">
 </p>
 
 ---
 
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bounce-reverse-bounce.svg" width="100%" />
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=50&section=divider" width="100%" /></p>
 
 ## 🚀 About Me
 
@@ -40,7 +40,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bounce-reverse-bounce.svg" width="100%" />
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=50&section=divider" width="100%" /></p>
 
 ## 🛠️ Tech Stack
 
@@ -91,7 +91,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bounce-reverse-bounce.svg" width="100%" />
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=50&section=divider" width="100%" /></p>
 
 ## 📂 Featured Projects
 
@@ -247,7 +247,7 @@ dataforge serve api
 
 ---
 
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bounce-reverse-bounce.svg" width="100%" />
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=50&section=divider" width="100%" /></p>
 
 ## 📊 GitHub Statistics
 
@@ -271,7 +271,7 @@ dataforge serve api
 
 ---
 
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bounce-reverse-bounce.svg" width="100%" />
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=50&section=divider" width="100%" /></p>
 
 ## 🏆 GitHub Trophies
 
@@ -290,43 +290,33 @@ dataforge serve api
 
 ---
 
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bounce-reverse-bounce.svg" width="100%" />
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=50&section=divider" width="100%" /></p>
 
 ## 💡 Skills Overview
 
 <p align="center">
-  <img src="https://github-readme-skill-icons.vercel.app/icons/Python-Dark.svg" width="60" height="60" />
-  <img src="https://github-readme-skill-icons.vercel.app/icons/FastAPI-Dark.svg" width="60" height="60" />
-  <img src="https://github-readme-skill-icons.vercel.app/icons/Django-Dark.svg" width="60" height="60" />
-  <img src="https://github-readme-skill-icons.vercel.app/icons/PostgreSQL-Dark.svg" width="60" height="60" />
-  <img src="https://github-readme-skill-icons.vercel.app/icons/Redis-Dark.svg" width="60" height="60" />
-  <img src="https://github-readme-skill-icons.vercel.app/icons/Docker-Dark.svg" width="60" height="60" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="60" height="60" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" width="60" height="60" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" width="60" height="60" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" width="60" height="60" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" width="60" height="60" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" width="60" height="60" />
 </p>
 
 ---
 
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bounce-reverse-bounce.svg" width="100%" />
-
-## 🐍 Snake Game Contribution
-
-<p align="center">
-  <img src="https://github.com/Debrupbanik/Debrupbanik/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</p>
-
----
-
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bounce-reverse-bounce.svg" width="100%" />
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=50&section=divider" width="100%" /></p>
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:devruphello@gmail.com">
-    <img src="https://img.shields.io/badge/Email-devruphello%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:debrupbanik82@gmail.com">
+    <img src="https://img.shields.io/badge/Email-debrupbanik82%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/Debrupbanik">
     <img src="https://img.shields.io/badge/GitHub-Debrupbanik-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://linkedin.com/in/debrupbanik">
+  <a href="https://github.com/Debrupbanik/DataForge">
     <img src="https://img.shields.io/badge/LinkedIn-debrupbanik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
