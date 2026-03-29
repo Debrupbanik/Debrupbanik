@@ -98,6 +98,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debrupbanik&repo=api-mesh-gateway&theme=tokyonight&bg_color=0D1117&show_icons=true&icon_color=00D9FF&title_color=00D9FF&text_color=FFFFFF&hide_border=true&border_radius=15" alt="API Mesh Gateway" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debrupbanik&repo=VaultDB&theme=tokyonight&bg_color=0D1117&show_icons=true&icon_color=00D9FF&title_color=00D9FF&text_color=FFFFFF&hide_border=true&border_radius=15" alt="VaultDB" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debrupbanik&repo=DataForge&theme=tokyonight&bg_color=0D1117&show_icons=true&icon_color=00D9FF&title_color=00D9FF&text_color=FFFFFF&hide_border=true&border_radius=15" alt="DataForge" />
 </p>
 
 ---
@@ -207,6 +208,42 @@ dbbackup backup --dbms postgresql --database myapp --compression gzip
 ### 🔮 [Solana Prediction Market](https://github.com/Debrupbanik/solprediction)
 
 > 🔮 Prediction market platform for the Solana ecosystem
+
+---
+
+### ⚒️ [DataForge](https://github.com/Debrupbanik/DataForge)
+
+> ⚒️ **All-in-one Backend Platform** - API Gateway, Energy Forecasting, Database Backup
+
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis" alt="Redis">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker" alt="Docker">
+</p>
+
+**✨ Key Features:**
+- 🔌 API Gateway with path-based routing, load balancing, circuit breaker
+- ⚡ Energy Forecasting with ML models (RF, XGBoost, LightGBM, LSTM)
+- 💾 Database Backup for SQLite, MySQL, PostgreSQL
+- 🔐 API Key & JWT authentication with role-based access control
+- 📊 Interactive Streamlit dashboard
+
+```bash
+# Quick Start
+dataforge energy forecast data/energy.csv --steps 24
+dataforge backup create postgresql mydb
+dataforge serve api
+```
+
+<p align="center">
+  <a href="https://github.com/Debrupbanik/DataForge/stargazers">
+    <img src="https://img.shields.io/github/stars/Debrupbanik/DataForge?style=social" alt="Stars">
+  </a>
+  <a href="https://github.com/Debrupbanik/DataForge/network/members">
+    <img src="https://img.shields.io/github/forks/Debrupbanik/DataForge?style=social" alt="Forks">
+  </a>
+</p>
 
 ---
 
