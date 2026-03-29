@@ -45,12 +45,12 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" alt="Python" />
-  <img src="https://techstack-generator.vercel.app/fastapi-icon.svg" width="60" height="60" alt="FastAPI" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="60" height="60" alt="Django" />
-  <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" width="60" height="60" alt="PostgreSQL" />
-  <img src="https://techstack-generator.vercel.app/redis-icon.svg" width="60" height="60" alt="Redis" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" height="60" alt="Docker" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="60" height="60" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" width="60" height="60" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" width="60" height="60" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" width="60" height="60" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" width="60" height="60" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" width="60" height="60" />
 </p>
 
 ### 💻 Languages & Frameworks
