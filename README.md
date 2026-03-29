@@ -325,9 +325,7 @@ dataforge serve api
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=footer&section=footer&desc=Thanks%20for%20visiting!&fontSize=16&fontAlignY=50&height=100&color=gradient&customColorList=0,2,2,20,30" />
-</p>
+
 
 ---
 
