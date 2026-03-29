@@ -203,7 +203,20 @@ dbbackup backup --dbms postgresql --database myapp --compression gzip
 
 ### 🔮 [Solana Prediction Market](https://github.com/Debrupbanik/solprediction)
 
-> 🔮 Prediction market platform for the Solana ecosystem
+> 🔮 **Prediction Market Platform** - Decentralized betting on Solana blockchain
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Rust-DEA584?style=flat&logo=rust" alt="Rust">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white" alt="Solana">
+  <img src="https://img.shields.io/badge/Anchor-4F46E5?style=flat" alt="Anchor">
+</p>
+
+**✨ Key Features:**
+- 🔮 Decentralized prediction market on Solana
+- ⚡ Fast and low-cost transactions
+- 🦀 Smart contracts written in Rust
+- 💻 Frontend in TypeScript/React
 
 ---
 
